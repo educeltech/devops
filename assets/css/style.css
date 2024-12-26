@@ -51,7 +51,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #151515;
+  color: #ffffff;
   line-height: 0;
 }
 
@@ -684,7 +684,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #151515;
+  color: #ffffff;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -696,7 +696,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #151515;
+  color: #ffffff;
   transition: ease-in-out 0.3s;
 }
 
